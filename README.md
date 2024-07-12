@@ -1,1 +1,2 @@
 # odin_recipes
+This is a project to build a recipe website, where we will have a landing page that links to different recipes. It will help me learn how to use common html elements like bolding and italicizing text, paragraph wrapping, anchoring absolute and relative links, and posting images. 
